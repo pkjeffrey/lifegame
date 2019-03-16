@@ -8,7 +8,7 @@ public class GameThread extends Thread {
 	public GameThread(GameUI gameUI) {
 		super();
 		_running = false;
-		_framePeriod = 500;
+		_framePeriod = 100;
 		_gameUI = gameUI;
 	}
 	
@@ -20,6 +20,7 @@ public class GameThread extends Thread {
 		_framePeriod = framePeriod;
 	}
 	
+	@Override
 	public void run() {
 		while (_running) {
 			long beginTime = System.currentTimeMillis();
