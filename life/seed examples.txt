@@ -1,0 +1,41 @@
+Spaceships
+==========
+
+Glider
+bob$2bo$3o!
+
+Fireship
+4bo2bo$4bo2bo$3bo4bo$3bo4bo$3bo4bo$3bo4bo$2b3o2b3o$2bob4obo$3bo4bo3$5b2o$5b2o$5b2o$3bo4bo$b3o4b3o$3o6b3o$2o8b2o$b10o$2b8o$4b4o!
+
+Wasp
+10bo3bo7b$7bobob2ob3o5b$6bo2bo6b2ob2ob$b2o2b2o2bo3bo2bo2b2ob$b2obob2o2bo2bo4bo2bo$o3bo4b2o11b$obobo2bo2b2o10b$9bo12b$b3o!
+
+Spider
+9bo7bo9b$3b2obobob2o3b2obobob2o3b$3obob3o9b3obob3o$o3bobo5bobo5bobo3bo$4b2o6bobo6b2o4b$b2o9bobo9b2ob$b2ob2o15b2ob2ob$5bo15bo!
+
+Pufferfish Spaceship
+8bo7bo18bo7bo$7b3o5b3o16b3o5b3o$6b2o2bo3bo2b2o14bo2b2o3b2o2bo$6bo2bo5bo2bo$5b2o3b2ob2o3b2o$6bobob2ob2obobo13bo3b2o3b2o3bo$7bo9bo13bo2b2o2bobo2b2o2bo$8bo2bobo2bo15bobo3bobo3bobo$35b3o3b3o$5b2o2b2o3b2o2b2o16bo5bo$5b2o11b2o2$9bo5bo17bo11bo$9b2o3b2o17bo11bo2$20bo10bo4b2o3b2o$4bo14b3o8b3o3b2o3b2o4bo$3b3o12bo2b2o6bo2b2o12b3o$2bo2b2o2b2o3b2o2b3o2bo5b2o3bo10bo2b2o$2b2o5b2o3b2o5bobo6b2o2bo10b2o$bo19bo2bo9bo8bo2bo$b3o18b2o6bo4bobo3b2o$22b2o5bo7bo3b7o$29bo6bo11b2ob2o$30b2ob3o12bob3o$18bo10bo19b3o$17bo2bo$2bo15bobo$bobo$o3bo43b3o$o3bo43bobo$bobo$2bo3$48bobo$48b3o!
+
+Methuselahs
+===========
+
+Acorn
+bo5b$3bo3b$2o2b3o!
+
+Bunnies
+o5bob$2bo3bob$2bo2bobo$bobo!
+
+Die Hard
+6bob$2o6b$bo3b3o!
+
+Queen Bee
+3bo3b$2bobo2b$bo3bob$2b3o2b$2o3b2o!
+
+Guns
+====
+
+Gosper Glider Gun
+24bo11b$22bobo11b$12b2o6b2o12b2o$11bo3bo4b2o12b2o$2o8bo5bo3b2o14b$2o8bo3bob2o4bobo11b$10bo5bo7bo11b$11bo3bo20b$12b2o!
+
+Slide Gun
+56b2o51b$56b2o51b2$78bo30b$78bobo28b$81b2o6b2o18b$38b2o27b2o12b2o4bo3bo17b$38b2o16b3o8b2o12b2o3bo5bo8b2o6b$78bobo4b2obo3bo8b2o6b$56bobo19bo7bo5bo16b$55b5o27bo3bo17b$54b2o3b2o4b2o22b2o18b$54b2o3b2o3bo2bo11bo29b$64bo12b2o30b$64bo13b2o29b$64bob2o41b$66b2o41b2$83b2o24b$59b2o4b2o15b2o10bobo12b$59bo5b2o17bo8bo2bo12b$60b3o16b2o11b2o10b2o3b$62bo16bobo8b2o3bo8b2o3b$74b2o6bo9b2o5b2o8b$73bo2bo2bo2bo10bo2bo4bo7b$73b3o6bo11bobo12b$46b3o22b3o5bobo27b$48bo15bo5bobo6b2o28b$47bo14b2o6bo38b$63b2o4b2o38b$55bo53b$35b2o17bobo52b$35bo18b2obo14b2o35b$24bo8bobo18b2ob2o14bo35b$24b4o5b2o19b2obo15bobo10bo22b$8bo16b4o15b2o8bobo4b2o11b2o9b4o20b$7bobo5b2o8bo2bo14bobo9bo5bobo7bo12b2ob4o5b2o11b$5b2o3bo14b4o14bo19bo6b2o11b3ob2o3bo3bo2bo9b$2o3b2o3bo4bobob2o3b4o14b2o19b2o5bobo11b2ob2o3bo7bo8b$2o3b2o3bo5b2o3bo2bo60b5o3bo6bo6b2o$7bobo10bo18b2o45bo3b3o7bo6b2o$8bo8bo2bo10b3o4bobo27b2o26bo2bo9b$33bo3b3o28bo2bo24b2o11b$32bo4b2o70b$40b2o26bo2bo12bo24b$27bo11b3o25bo2bo11b2o25b$28bo38bobo12b3o24b$28bo39bo11b3o26b$24bo2bo11b2o39b2o27b$6bo5b2o9bo15b2o27b2o39b$4bo3bo3b3o10bo42b2o16b2o9bo11b$8bo5b2obo11bo55b4o7bobo10b$3bo5bo4bo2bo10b2o50bobo2bo2b3o5b2obo9b$3b2o9b2obo9b2o4b2o2b2o40bo2bo2b2o9b2ob2o3b2o3b$12b3o11b3o4b2o2b2o31b2o6b2o9bo6b2obo4b2o3b$12b2o13b2o4b2o35b2o4b2o3bo8bo5bobo10b$28b2o48b2o10bo6bo11b$29bo49bo2bo26b$80bobo!
